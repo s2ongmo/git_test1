@@ -1,11 +1,11 @@
-# Git Repository 실습
+# 💻 Git Repository 실습
 
 ## 개요
 - 성공회대학교 서버구축 및 형상관리 수업
 - Git 기본 명령어 학습 및 실습
 - 2025년 1학기
 
-## 학습 내용
+## 📝 학습 내용
 1. Git 저장소 생성
 2. 기본 명령어 실습
    - git init
@@ -16,7 +16,7 @@
 3. 브랜치 관리
 4. 원격 저장소 연동
 
-## 개발 환경
+## ⚙️ 개발 환경
 - Git version 2.x
 - Visual Studio Code
 - Windows 운영체제
