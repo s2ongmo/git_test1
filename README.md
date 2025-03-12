@@ -22,6 +22,7 @@
 - Windows 운영체제
 
 ## 작성자 정보
-- 학과:
-- 학번:
-- 이름:
+- 학과: 정보통신공학과/소프트웨어공학과 복수전공
+- 학번: 201914035
+- 이름: 유성모
+- 관심분야: Web hacking, File Recovery, Malicious document research
